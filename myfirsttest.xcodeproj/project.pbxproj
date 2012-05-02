@@ -35,17 +35,17 @@
 		FF7A1C7215516B150051B4BC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FF7A1C7415516B150051B4BC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FF7A1C7615516B150051B4BC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		FF7A1C7A15516B150051B4BC /* myfirsttest-Info.plist */ = {isa = PBXFileReference; path = "myfirsttest-Info.plist"; sourceTree = "<group>"; };
+		FF7A1C7A15516B150051B4BC /* myfirsttest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "myfirsttest-Info.plist"; sourceTree = "<group>"; };
 		FF7A1C7C15516B150051B4BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FF7A1C7E15516B150051B4BC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FF7A1C8015516B150051B4BC /* myfirsttest-Prefix.pch */ = {isa = PBXFileReference; path = "myfirsttest-Prefix.pch"; sourceTree = "<group>"; };
-		FF7A1C8115516B150051B4BC /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		FF7A1C8015516B150051B4BC /* myfirsttest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "myfirsttest-Prefix.pch"; sourceTree = "<group>"; };
+		FF7A1C8115516B150051B4BC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FF7A1C8215516B150051B4BC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		FF7A1C8915516B150051B4BC /* myfirsttestTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myfirsttestTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF7A1C8A15516B150051B4BC /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		FF7A1C9215516B150051B4BC /* myfirsttestTests-Info.plist */ = {isa = PBXFileReference; path = "myfirsttestTests-Info.plist"; sourceTree = "<group>"; };
+		FF7A1C9215516B150051B4BC /* myfirsttestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "myfirsttestTests-Info.plist"; sourceTree = "<group>"; };
 		FF7A1C9415516B150051B4BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		FF7A1C9615516B150051B4BC /* myfirsttestTests.h */ = {isa = PBXFileReference; path = myfirsttestTests.h; sourceTree = "<group>"; };
+		FF7A1C9615516B150051B4BC /* myfirsttestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = myfirsttestTests.h; sourceTree = "<group>"; };
 		FF7A1C9715516B150051B4BC /* myfirsttestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = myfirsttestTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
